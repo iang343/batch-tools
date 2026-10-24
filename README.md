@@ -1,4 +1,4 @@
-# batch-tools
+# batch-tools *Not currently uploaded*
 A basic batch program with batch programming tools. Only for windows, only Windows 11 compatibility verified.
 
 ## What can this be used for?
